@@ -1,0 +1,8 @@
+services:
+  jupyter:
+    build: .
+    container_name: mlbd-assignment2
+    volumes:
+      - .:/workspace
+    ports:
+      - "8888:8888"
