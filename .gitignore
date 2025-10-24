@@ -7,3 +7,8 @@ __pycache__/
 **/artifacts/*
 !**/artifacts/.gitkeep
 
+**/joblibs/*
+!**/joblibs/.gitkeep
+
+.DS_Store
+.Trash-0
