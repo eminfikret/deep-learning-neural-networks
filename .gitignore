@@ -1,2 +1,14 @@
-./dataset/poker_hands.csv
-/dataset/poker_hands.csv
+__pycache__/
+.ipynb_checkpoints/
+
+**/dataset/*
+!**/dataset/.gitkeep
+
+**/artifacts/*
+!**/artifacts/.gitkeep
+
+**/joblibs/*
+!**/joblibs/.gitkeep
+
+.DS_Store
+.Trash-0
